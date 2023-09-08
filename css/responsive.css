@@ -149,6 +149,12 @@
 
 
 }
+@media (min-width: 1200px) and (max-width: 1340px) {
+    .mean-last{
+        margin-top: -85px  !important;
+    }
+    
+}
  @media (min-width: 1200px) and (max-width: 1500px) {
      .banner-main .carousel-caption {
          background: transparent;
